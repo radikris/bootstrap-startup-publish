@@ -1,1 +1,1 @@
-# bootstrap-startup-publish
+# Playground for github pages deploy and mailchimp integration
